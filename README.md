@@ -56,12 +56,12 @@ analyzing the root cause of the failure.
 
 Technical Skills
 ------------------------------------------------------------------------------------------------------
-DevOps & Cloud
+DevOps & Cloud: 
 AWS(EC2) (S3) (IAM)
 (CLI), Git, GitHub,
 Linux, Jenkins
 
-Tools
+Tools: 
 BMC Control-M,
 Informatica
 PowerCenter, MS
