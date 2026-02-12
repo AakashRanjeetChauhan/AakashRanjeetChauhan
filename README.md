@@ -30,6 +30,7 @@ Professional Experience
 ------------------------------------------------------------------------------------------------------
 Production/Application Support Analyst                                      06/2021 – 11/2025
 Hexaware Technologies
+
 •Check Email, Alerts, notification mails using MS Outlook
 
 •Developing/Monitoring Jobs using Scheduling tool such as Control M
