@@ -1,4 +1,4 @@
-## Hi there 👋 I am Aakash Ranjeet Chauhan
+## Hi there 👋 I am Aakash Chauhan
 
 AWS and Devops Aspirant | Production Support Analyst | 4.5+ Years
 Experience | Linux, Control-M, Informatica, SQL, ServiceNow, ITIL
