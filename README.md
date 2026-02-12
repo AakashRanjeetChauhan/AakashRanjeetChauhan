@@ -28,8 +28,8 @@ role.
 
 Professional Experience
 ------------------------------------------------------------------------------------------------------
-Production/Application Support Analyst                                      06/2021 – 11/2025
-Hexaware Technologies
+Production/Application Support Analyst
+Hexaware Technologies                                                       06/2021 – 11/2025
 
 •Check Email, Alerts, notification mails using MS Outlook
 
