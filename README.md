@@ -56,7 +56,7 @@ Technical Skills
 DevOps & Cloud: 
 AWS(EC2) (S3) (IAM)
 (CLI), Git, GitHub,
-Linux, Jenkins
+Linux, Jenkins, Docker, Kubernates
 
 Tools: 
 BMC Control-M,
