@@ -7,8 +7,6 @@ Experience | Linux, Control-M, Informatica, SQL, ServiceNow, ITIL
 
 📍 Maharashtra, Navi Mumbai, Panvel 410206 
 
-github.com/AakashRanjeetChauhan
-
 linkedin.com/in/aakash-chauhan-7915071b5
 
 Career Objective
