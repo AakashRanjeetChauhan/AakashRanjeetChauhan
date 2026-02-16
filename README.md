@@ -9,12 +9,8 @@ Experience | Linux, Control-M, Informatica, SQL, ServiceNow, ITIL
 
 linkedin.com/in/aakash-chauhan-7915071b5
 
-Career Objective
-------------------------------------------------------------------------------------------------------
-An enterprising learner seeking an opportunity to execute technical skills in Software industry
-which would enhance my skills and knowledge to work in a competitive environment for
-organizational growth
 Professional Summary
+------------------------------------------------------------------------------------------------------
 Application & Production Support professional with 4.5 years of experience at Hexaware
 Technologies supporting Banking and Asset Management systems for AllianceBernstein. Skilled in
 monitoring and supporting critical applications including Enterprise Billing System EBS, Financial
